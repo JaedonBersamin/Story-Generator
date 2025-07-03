@@ -3,3 +3,5 @@
 numpy<2
 requests
 Pillow
+torch
+transformers
