@@ -5,3 +5,9 @@ requests
 Pillow
 torch
 transformers
+einops 
+pulp 
+scipy
+shapely
+matplotlib
+timm
